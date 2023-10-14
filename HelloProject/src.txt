@@ -1,0 +1,6 @@
+string 
+class a
+{
+aaaaaaaaaaaaaa
+bbbbbbbbbbbbb:
+}
